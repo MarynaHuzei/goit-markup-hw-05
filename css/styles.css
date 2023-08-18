@@ -370,7 +370,7 @@ body {
 .our-job-item {
   display: flex;
   align-items: flex-start;
-  width: calc(100% - 2 * 24) / 3;
+  width: calc((100% - 2 * 24p) / 3);
 }
 .our-job,
 .our-team,
